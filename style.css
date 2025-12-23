@@ -94,7 +94,7 @@ header {
     position: fixed;
     width: 100%;
     z-index: 5;
-    background: var(--primary-color);
+    background: #000;
 }
 
 .logo-image {
@@ -311,7 +311,7 @@ header .navbar {
     width: 500px;
     height: 400px;
     object-fit: contain;
-    border-radius: var(--border-radius-m)
+    border-radius: var(--border-radius-m);
 }
 
 
